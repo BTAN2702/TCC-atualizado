@@ -1,0 +1,11 @@
+streamlit
+psycopg2-binary
+pandas
+matplotlib
+python-dotenv
+plotly
+cryptography
+reportlab
+streamlit-extras
+pytest
+pytest-cov
